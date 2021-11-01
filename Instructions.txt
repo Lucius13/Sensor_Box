@@ -2,7 +2,7 @@
 
 2: open /grove/adc.py
 
-3: change the i2c address of hat from 0x0004 to 0x0008 (line 42)
+3: change the i2c address of hat from 0x04 to 0x08 (line 57)
 
 4: install python 3.7 and required libs
 
